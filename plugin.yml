@@ -1,0 +1,9 @@
+name: MCSurvivel576
+version: 0.8
+main: com.youtube.luisz576.mcsurvivel.Main
+author: Luisz576
+api-version: 1.16
+commands:
+  status:
+  banheiro:
+  cleartp:
